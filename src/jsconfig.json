@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src" // or "./" for root, depend on team setup
+    },
+    "include": ["src"]
+}
