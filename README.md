@@ -1,3 +1,5 @@
+## Raymond tutorial guide: https://peat-snapper-50a.notion.site/React-3449031b8f9c42d59ea6d4e1d5c9255b
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
